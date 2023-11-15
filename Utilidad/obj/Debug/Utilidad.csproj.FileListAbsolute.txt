@@ -1,0 +1,6 @@
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\bin\Debug\Utilidad.dll
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\bin\Debug\Utilidad.pdb
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\obj\Debug\Utilidad.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\obj\Debug\Utilidad.dll
+C:\Users\ACER\OneDrive - CIBERTEC\Desktop\Cibertec Ciclo5\POO 5\Proyecto\026_SistemaCarritoCompras\Utilidad\obj\Debug\Utilidad.pdb
