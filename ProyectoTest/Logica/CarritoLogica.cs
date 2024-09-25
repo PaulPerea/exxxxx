@@ -209,8 +209,5 @@ namespace ProyectoTest.Logica
                 }
             }
         }
-
-
-
     }
 }
