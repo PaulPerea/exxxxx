@@ -10,8 +10,20 @@ using System.IO;
 
 namespace ProyectoTest.Controllers
 {
+
     public class HomeController : Controller
     {
+        protected override JsonResult Json(object data, string contentType, System.Text.Encoding contentEncoding, JsonRequestBehavior behavior)
+        {
+            return new JsonResult()
+            {
+                Data = data,
+                ContentType = contentType,
+                ContentEncoding = contentEncoding,
+                JsonRequestBehavior = behavior,
+                MaxJsonLength = Int32.MaxValue
+            };
+        }
         public ActionResult Index()
         {
             if (Session["Usuario"] == null)

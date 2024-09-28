@@ -67,6 +67,7 @@ namespace ProyectoTest.Logica
                 }
                 catch (Exception ex)
                 {
+                    Console.WriteLine(ex.Message);
                     rptListaProducto = null;
                     return rptListaProducto;
                 }
